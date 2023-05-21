@@ -46,8 +46,3 @@ To reproduce the results, follow these steps:
 5. The weights are saved and can be found in the attached JSON file for achieving similar accuracy results.
 
 For detailed implementation and code, please refer to the [ML-DeeplabCut](https://github.com/Amoghkori/ML-DeeplabCut) repository.
-
----
-
-Submitted by: Amogh A Kori  
-Instructed by: Prof. Yan Yan
